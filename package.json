@@ -1,0 +1,39 @@
+{
+  "name": "no-name",
+  "license": "UNLICENSED",
+  "vaadin": {
+    "dependencies": {
+      "lit-element": "^2.2.1",
+      "@polymer/polymer": "3.2.0",
+      "@webcomponents/webcomponentsjs": "^2.2.10"
+    },
+    "devDependencies": {
+      "webpack-babel-multi-target-plugin": "2.3.3",
+      "copy-webpack-plugin": "5.1.2",
+      "compression-webpack-plugin": "4.0.1",
+      "raw-loader": "3.1.0",
+      "webpack-cli": "3.3.11",
+      "webpack": "4.42.0",
+      "chokidar": "^3.5.0",
+      "webpack-merge": "4.2.2",
+      "webpack-dev-server": "3.11.0"
+    },
+    "hash": "7d600030d5031de2a4140f5a2fa5c71f23d7f9832897e3698543abf424aedb38"
+  },
+  "dependencies": {
+    "@polymer/polymer": "3.2.0",
+    "@webcomponents/webcomponentsjs": "^2.2.10",
+    "lit-element": "^2.2.1"
+  },
+  "devDependencies": {
+    "chokidar": "^3.5.0",
+    "compression-webpack-plugin": "4.0.1",
+    "copy-webpack-plugin": "5.1.2",
+    "raw-loader": "3.1.0",
+    "webpack": "4.42.0",
+    "webpack-babel-multi-target-plugin": "2.3.3",
+    "webpack-cli": "3.3.11",
+    "webpack-dev-server": "3.11.0",
+    "webpack-merge": "4.2.2"
+  }
+}
